@@ -1,0 +1,16 @@
+body{
+	text-align: center;
+	font-family: 'Arial';
+	background: lightblue;
+	color: white;
+}
+#minions{
+	width: 300px;
+}
+img{
+	width: 200px;
+}
+#bob{
+	width: 250px;
+	border-radius: 20%;
+}
